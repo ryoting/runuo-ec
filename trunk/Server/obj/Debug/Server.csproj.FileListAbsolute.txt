@@ -1,0 +1,5 @@
+C:\RunUO2.5\runuo-master\Server\obj\Debug\RunUO.exe
+C:\RunUO2.5\runuo-master\Server\obj\Debug\RunUO.pdb
+C:\RunUO2.5\runuo-master\RunUO.exe
+C:\RunUO2.5\runuo-master\RunUO.pdb
+C:\RunUO2.5\runuo-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

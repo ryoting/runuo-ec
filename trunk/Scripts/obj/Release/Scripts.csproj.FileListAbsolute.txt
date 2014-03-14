@@ -1,0 +1,7 @@
+C:\RunUO2.5\runuo-master\Scripts\Output\RunUO Scripts.dll
+C:\RunUO2.5\runuo-master\Scripts\Output\RunUO Scripts.pdb
+C:\RunUO2.5\runuo-master\Scripts\Output\RunUO.exe
+C:\RunUO2.5\runuo-master\Scripts\Output\RunUO.pdb
+C:\RunUO2.5\runuo-master\Scripts\obj\Release\Scripts.csprojResolveAssemblyReference.cache
+C:\RunUO2.5\runuo-master\Scripts\obj\Release\RunUO Scripts.dll
+C:\RunUO2.5\runuo-master\Scripts\obj\Release\RunUO Scripts.pdb

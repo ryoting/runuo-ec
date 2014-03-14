@@ -1,0 +1,4 @@
+C:\RunUO2.5\runuo-master\Server\obj\Release\RunUO.exe
+C:\RunUO2.5\runuo-master\Server\obj\Release\RunUO.pdb
+C:\RunUO2.5\runuo-master\RunUO.exe
+C:\RunUO2.5\runuo-master\RunUO.pdb
