@@ -104,7 +104,8 @@ namespace Server.ContextMenus
 			{
 				for ( int i = 0; i < m_Entries.Length; ++i )
 				{
-					if ( m_Entries[i].Number < 3000000 || m_Entries[i].Number > 3032767 )
+                    // Adding m_Entries[i].Number < 3007000 for the context menu work with UOKR
+                    if (m_Entries[i].Number < 3000000 || m_Entries[i].Number < 3007000 || m_Entries[i].Number > 3032767)
 						return true;
 				}
 
